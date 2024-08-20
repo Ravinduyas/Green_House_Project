@@ -11,3 +11,13 @@ Automated Control Systems:
 
 Climate Control: Automatically adjusts heating, cooling, on real-time sensor data to maintain optimal growing conditions.
 Irrigation Management: Uses soil moisture data to automate watering schedules, ensuring plants receive the right amount of water.# Green_House_Project
+
+
+Group Project members - 
+Chathura Bashitha Wickramasinghe
+Ravindu Yasanka
+Nisitha Pramoad
+Kavindu Hansaka
+Vishal Sandakalum
+Hasitha Kavishan
+Pevinya Geenadi
